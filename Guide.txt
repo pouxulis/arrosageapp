@@ -1,0 +1,9 @@
+
+1. Creer la base de données à partir de spring boot.
+
+2. En utilisant node.js , aller dans le chemin de l'application puis taper : "cd Mysqlconnection" , et apres "node Server.js".
+
+3. En utilisant l'invite de commandes, aller dans le chemin de l'application et taper "npm start".
+
+4. login : amineboulakhrabi
+   password : Pikachuu1
